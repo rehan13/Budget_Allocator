@@ -43,8 +43,4 @@ As the package manager for JavaScript, npm facilitates the installation and mana
 
 Proficiency with React and Redux is crucial for developing this application. Additionally, a strong understanding of HTML, CSS, and JavaScript is required. Familiarity with npm for handling project dependencies is also essential.
 
-## Demonstration
-
-You can view a live demonstration of the application at the following link: [Budget Allocation App Demo](https://budget-allocation-app.vercel.app/).
-
 
