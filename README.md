@@ -43,4 +43,22 @@ As the package manager for JavaScript, npm facilitates the installation and mana
 
 Proficiency with React and Redux is crucial for developing this application. Additionally, a strong understanding of HTML, CSS, and JavaScript is required. Familiarity with npm for handling project dependencies is also essential.
 
+## Access the Web App
 
+You can access the Budget Allocator web application at the following URL: [Budget Allocator App](https://rehan13.github.io/Budget_Allocator/).
+
+### About the App
+
+The Budget Allocator is designed to simplify the process of managing and allocating company finances. With an intuitive interface and user-friendly features, it helps you allocate your budget effectively across different categories.
+
+### Getting Started
+
+To get started with Budget Allocator, simply visit the [web app](https://rehan13.github.io/Budget_Allocator/) and follow the on-screen instructions to set up your budget.
+
+### Feedback and Contributions
+
+Your feedback is valuable in making Budget Allocator better. If you encounter any issues or have suggestions for improvement, please feel free to [open an issue](https://github.com/rehan13/Budget_Allocator/issues) on GitHub. Also, contributions to the codebase are always welcome!
+
+---
+
+Happy Budgeting!
