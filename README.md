@@ -60,5 +60,8 @@ To get started with Budget Allocator, simply visit the [web app](https://rehan13
 Your feedback is valuable in making Budget Allocator better. If you encounter any issues or have suggestions for improvement, please feel free to [open an issue](https://github.com/rehan13/Budget_Allocator/issues) on GitHub. Also, contributions to the codebase are always welcome!
 
 ---
+![Screenshot 2024-04-23 at 11 05 13 AM](https://github.com/rehan13/Budget_Allocator/assets/79845546/fd2213bc-a18b-4de9-a7ee-cc39b749f798)
+
+
 
 Happy Budgeting!
